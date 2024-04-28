@@ -12,7 +12,8 @@ Welcome to NutriGuide, your personal nutrition expert right in your pocket! This
 - License
 
 ## Screenshots 📸
-(Insert your screenshots here)
+- Splash Screen
+    ![Splash Screen](NutriGuideScreenShot/splash.png)
 
 ## Features 🌟
 - **User Authentication**: Sign up and log in using Firebase Authentication.
