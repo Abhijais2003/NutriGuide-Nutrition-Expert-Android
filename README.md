@@ -29,9 +29,10 @@ Welcome to NutriGuide, your personal nutrition expert right in your pocket! This
 
 ## Installation 🛠️
 
-1. Clone this repository: `git clone https://github.com/Abhijais2003/NutriGuide-Nutrition-Expert-Android.git`
-2. Open the project in your favorite IDE (we recommend Android Studio).
-3. Build and run the project on an emulator or actual Android device.
+1. Clone this repository:
+   ```git clone https://github.com/Abhijais2003/NutriGuide-Nutrition-Expert-Android.git```
+3. Open the project in your favorite IDE (we recommend Android Studio).
+4. Build and run the project on an emulator or actual Android device.
 
 ## Usage 📱
 
@@ -52,11 +53,11 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 - Abhishek Jaiswal
   Contributions: Developed the Homepage, implemented APIs, and created the, About Us, Contact Us, and Version pages.
-  - Contact: [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][www.linkedin.com/in/20abhishek]
-            [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.instagram.com/_abhishek_jaiswal_official/]
+  - Contact:[<i class="far fa-envelope"></i>](mailto:jjaiswal.aj.1234@gmail.com) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/20abhishek) [<i class="fab fa-instagram"></i>](https://www.instagram.com/_abhishek_jaiswal_official/)
 - Prince Kumar
   Contributions: Splash Screen, Login and Sign up pages using Firebase authentication.
-  - Contact: princekumar121@gmail.com 
+  - Contact: 
+
 
 ## License 📄
 
