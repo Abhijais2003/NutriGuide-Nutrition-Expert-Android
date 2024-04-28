@@ -53,7 +53,7 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 - Abhishek Jaiswal
   Contributions: Developed the Homepage, implemented APIs, and created the, About Us, Contact Us, and Version pages.
-  - Contact:[<i class="far fa-envelope"></i>](mailto:jjaiswal.aj.1234@gmail.com) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/20abhishek) [<i class="fab fa-instagram"></i>](https://www.instagram.com/_abhishek_jaiswal_official/)
+  - Contact:[<i class="fa-regular fa-envelope"></i>](mailto:jjaiswal.aj.1234@gmail.com) [<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/20abhishek) [<i class="fa-brands fa-instagram"></i>](https://www.instagram.com/_abhishek_jaiswal_official/)
 - Prince Kumar
   Contributions: Splash Screen, Login and Sign up pages using Firebase authentication.
   - Contact: 
