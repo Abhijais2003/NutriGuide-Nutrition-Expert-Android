@@ -2,7 +2,6 @@
 Welcome to NutriGuide, your personal nutrition expert right in your pocket! This Android application provides nutritional information about various food items. Simply enter a food name, and NutriGuide fetches data from the Edamam API, displaying the nutritional content. The app also includes a custom action bar with an overflow menu for easy navigation.
 
 ## Table of Contents 📚
-- Screenshots
 - Features
 - Installation
 - Usage
@@ -11,12 +10,8 @@ Welcome to NutriGuide, your personal nutrition expert right in your pocket! This
 - Developers
 - License
 
-## Screenshots 📸
-- **Splash Screen**
-    ![Splash Screen](NutriGuideScreenShot/splash.jpg)
-
 ## Features 🌟
-- **User Authentication**: Sign up and log in using Firebase Authentication.
+- **User Authentication**: Sign up and log in using Firebase Authentication. ![Firebase Authentication](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGptNTlyd2xwNXFmbzJoMG9xYTR5YzA5cnZ2Mmp2NHpzMHJwMDVrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Me7C8ln2qbeAguJjzT/giphy.gif)
 - **Splash Screen**: A welcoming screen that appears when the app is launched.
 - **About Us**: Learn more about the creators and the mission of NutriGuide.
 - **Contact Us**: Reach out to us with your questions, comments, and suggestions.
