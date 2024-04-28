@@ -25,7 +25,9 @@ Welcome to NutriGuide, your personal nutrition expert right in your pocket! This
 
 ## Installation 🛠️
 1. Clone this repository:
-   ```git clone https://github.com/Abhijais2003/NutriGuide-Nutrition-Expert-Android.git```
+   ```
+   git clone https://github.com/Abhijais2003/NutriGuide-Nutrition-Expert-Android.git
+   ```
 3. Open the project in your favorite IDE (we recommend Android Studio).
 4. Build and run the project on an emulator or actual Android device.
 
