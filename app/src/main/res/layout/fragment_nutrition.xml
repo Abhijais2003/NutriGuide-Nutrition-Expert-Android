@@ -1,0 +1,59 @@
+<!-- fragment_nutrition.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/caloriesTextView"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="Calories: "/>
+
+        <TextView
+            android:id="@+id/totalFatTextView"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="Total Fat: "/>
+
+        <TextView
+            android:id="@+id/proteinTextView"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="Protein: "/>
+
+        <TextView
+            android:id="@+id/carbsTextView"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="Carbohydrates: "/>
+
+        <TextView
+            android:id="@+id/fiberTextView"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="Fiber: "/>
+
+        <TextView
+            android:id="@+id/sugarTextView"
+            android:layout_width="match_parent"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="Sugar: "/>
+
+        <!-- Add more TextViews for each nutrition fact -->
+
+    </LinearLayout>
+
+</LinearLayout>

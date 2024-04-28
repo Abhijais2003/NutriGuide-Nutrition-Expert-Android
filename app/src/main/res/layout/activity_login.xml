@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_border"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/loginimage"
+        android:layout_width="177dp"
+        android:layout_height="172dp"
+        android:layout_marginTop="69dp"
+        android:layout_marginBottom="29dp"
+        android:src="@drawable/nutationlogo"
+        app:layout_constraintBottom_toTopOf="@+id/logintext"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/logintext"
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="56dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Login"
+        android:fontFamily="@font/poppins_black"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#53B461"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/useremail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/useremail"
+        android:layout_width="294dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="17dp"
+        android:background="@drawable/edit_text_border"
+        android:inputType="textEmailAddress"
+        android:drawablePadding="6dp"
+        android:drawableLeft="@drawable/baseline_email_24"
+        android:hint="Email"
+        android:padding="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/Passwordlogin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/Passwordlogin"
+        android:layout_width="294dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="22dp"
+        android:background="@drawable/edit_text_border"
+        android:drawablePadding="6dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:drawableLeft="@drawable/baseline_lock_24"
+        android:padding="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/loginbutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/loginbutton"
+        android:layout_width="152dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="21dp"
+        android:fontFamily="@font/poppins_black"
+        android:background="@drawable/button_background"
+        android:text="Login"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/logintosignupbutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/logintosignupbutton"
+        android:layout_width="176dp"
+        android:layout_height="47dp"
+        android:layout_marginBottom="87dp"
+        android:fontFamily="@font/poppins_black"
+        android:gravity="center"
+        android:text="Not yet Registered ? Signup"
+        android:textColor="#2196F3"
+        android:textSize="13sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
