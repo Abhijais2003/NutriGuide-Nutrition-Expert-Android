@@ -13,7 +13,7 @@ Welcome to NutriGuide, your personal nutrition expert right in your pocket! This
 
 ## Screenshots 📸
 - Splash Screen
-    ![Splash Screen](NutriGuideScreenShot/splash.png)
+    ![Splash Screen](NutriGuideScreenShot/splash.jpg)
 
 ## Features 🌟
 - **User Authentication**: Sign up and log in using Firebase Authentication.
