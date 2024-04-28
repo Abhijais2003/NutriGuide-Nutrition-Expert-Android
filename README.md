@@ -12,7 +12,7 @@ Welcome to NutriGuide, your personal nutrition expert right in your pocket! This
 - License
 
 ## Screenshots 📸
-- Splash Screen
+- **Splash Screen**
     ![Splash Screen](NutriGuideScreenShot/splash.jpg)
 
 ## Features 🌟
